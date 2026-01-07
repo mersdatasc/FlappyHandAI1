@@ -1,0 +1,4 @@
+
+echo "models/hand_gesture_model.h5" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo ".gitattributes" >> .gitignore
